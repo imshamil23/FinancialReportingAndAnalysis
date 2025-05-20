@@ -1,5 +1,3 @@
-Here's a **polished version** of your `README.md` with improved flow, formatting, and relevant emojis to enhance readability and visual appeal:
-
 ---
 
 # 📊 Financial Reporting & Analysis with Power BI
